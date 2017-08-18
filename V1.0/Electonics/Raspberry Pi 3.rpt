@@ -1,0 +1,75 @@
+*****************************************************************
+      Spoleènost SolidWorks - Zpráva o stavu procesoru IGES
+*****************************************************************
+=================================================================
+Obecné informace
+=================================================================
+ID produktu odesílajícího systému: Raspberry Pie 3
+ID produktu pøijímacího systému: 
+Název souboru: Raspberry Pie 3
+Odesílající systém: unknown
+Verze preprocesoru: unknown
+Datum vytvoøení souboru: 20160728.104345
+Datum vytvoøení modelu: 
+Jednotky: MM
+Mìøítko modelového prostoru: 1
+Autor: unknown
+Organizace: unknown
+
+
+=================================================================
+Entita zpracovávající informace
+=================================================================
+CHYBA:   DE# 75331, TYPE   128: Povrch b-splajnu nelze vytvoøit.
+CHYBA:   DE# 75429, TYPE   128: Povrch b-splajnu nelze vytvoøit.
+CHYBA:   DE# 75447, TYPE   128: Povrch b-splajnu nelze vytvoøit.
+CHYBA:   DE# 75465, TYPE   128: Povrch b-splajnu nelze vytvoøit.
+CHYBA:   DE# 75483, TYPE   128: Povrch b-splajnu nelze vytvoøit.
+CHYBA:   DE# 75501, TYPE   128: Povrch b-splajnu nelze vytvoøit.
+
+
+=================================================================
+Analýza pøesnosti souboru IGES:
+=================================================================
+  Pøevládající poèet platných èíslic:              14
+  Nejvyšší poèet platných èíslic:                     14
+  Prùmìrný poèet platných èíslic:                8.63587
+  Maximální vzdálenost od poèátku:                          8.43928
+  Minimální vzdálenost od poèátku:                             0.05
+  Úèinný poèet platných èíslic:              13.9949
+
+
+=================================================================
+Souhrn entit
+=================================================================
+-----------------------------------------------------------------
+Název typu                                         Poèet pøevedených
+---- ----                                         ----- ---------
+124  Transformation matrix                           11        11
+126  Rational B-spline curve                      19356     19356
+128  Rational B-spline surface                     7641      7635
+186  Manifold Solid B-rep Object                    408       408
+308  Subfigure definition                             9         9
+314  Color definition                                19        19
+406  Property                                       368       368
+408  Singular subfigure instance                     11        11
+502  Vertex list                                    408       408
+504  Edge entity                                    408       408
+508  Loop entity                                   8417      8417
+510  Face entity                                   7641      7641
+514  Shell entity                                   408       408
+_________________________________________________________________
+
+
+=================================================================
+Souhrn výsledkù
+=================================================================
+Typ prvku SolidWorks                     Poèet
+-----------------------                -----
+Objemové prvky                       408
+Povrchové prvky                     0
+Prvky køivek/skic                0
+--------------------------------------------
+Èas spuštìní: ètvrtek, srpen 17, 2017 08:17:01
+Èas dokonèení: ètvrtek, srpen 17, 2017 08:18:24
+Doba zpracování: 0 days, 00 hours, 01 mins, 23 secs
