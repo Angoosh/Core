@@ -1,0 +1,19 @@
+8x Electronics_standoff
+8x Z_Shaft_Clamp_v1.1
+2x Z_nut_mount_v1.1
+2x Z_Motor_v1.1
+8x Z_Carriage_clamp
+4x Z_Carriage
+1x Y 608 bearing mount L
+1x Y 608 bearing mount
+1x Y motor mount L
+1x Y motor mount
+1x X_mount
+1x X_mount2
+2x variable_spool_holder
+2x linear_rail_brake
+2x linear_rail_brake2
+24x flex_door_magnet_stopper (z flexu)
+3x door_handle
+1x Extruder_carriage
+4x Bed_Support_v1.1
